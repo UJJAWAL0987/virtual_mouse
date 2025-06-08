@@ -2,6 +2,13 @@
 
 A Python-based desktop application that allows users to control their mouse cursor using hand gestures captured through a webcam.
 
+
+
+https://github.com/user-attachments/assets/15f2adcc-0e55-41cc-a696-6b85f6a16809
+
+
+
+
 ## Features
 
 - **Cursor Movement**: Control mouse cursor using index finger
